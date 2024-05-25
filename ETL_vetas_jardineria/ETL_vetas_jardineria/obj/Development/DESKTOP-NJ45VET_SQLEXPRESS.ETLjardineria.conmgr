@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-NJ45VET_SQLEXPRESS.ETLjardineria"
+  DTS:DTSID="{2136F6EF-79A0-460B-9365-BBF51971863E}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-NJ45VET\SQLEXPRESS;Initial Catalog=ETLjardineria;Integrated Security=True;Encrypt=False;Application Name=SSIS-ETL_ventas_jardineria-{2136F6EF-79A0-460B-9365-BBF51971863E}DESKTOP-NJ45VET\SQLEXPRESS.ETLjardineria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
